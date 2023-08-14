@@ -1,5 +1,4 @@
 
-##### DATE : [27-04-2023]
 ##### [REFERENCE](https://www.apisecuniversity.com/courses/api-security-fundamentals)
 
 
